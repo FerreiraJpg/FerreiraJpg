@@ -23,8 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/apenas_ferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apenas_ferreira" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pedro (ferreira) schreiner ferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro (ferreira) schreiner ferreira" height="30" width="40" /></a>
-<a href="https://instagram.com/ferreiraajpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferreiraajpg" height="30" width="40" /></a>
-<a href="https://discord.gg/FerreiraJpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FerreiraJpg" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
