@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Pedro Schreiner Ferreira</h1>
+<h1 align="center">Hi, I'm Pedro Schreiner Ferreira</h1>
 <h3 align="center">A passionate frontend developer from Brazil, 20 years old</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferreirajpg&label=Profile%20views&color=0e75b6&style=flat" alt="ferreirajpg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/apenasferreira_" target="blank"><img src="https://img.shields.io/twitter/follow/apenas_ferreira?logo=twitter&style=for-the-badge" alt="apenas_ferreira" /></a> </p>
 
-- 🔭 I’m currently working on **some dart/flutter projects**
+- 🔭 Im currently working on **some dart/flutter projects**
 
-- 🌱 I’m currently learning **flutter/dart and other things**
+- 🌱 Im currently learning **flutter/dart and other things**
 
-- 🤝 I’m looking for help with **some studies and lessons**
+- 🤝 Im looking for help with **some studies and lessons**
 
-- 💬 u can help me **with whatever u do**
+- 💬 U can help me **with whatever u do**
 
 - 📫 How to reach me **mario123schreiner@gmail.com**
 
