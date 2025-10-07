@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferreirajpg&label=Profile%20views&color=0e75b6&style=flat" alt="ferreirajpg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferreirajpg" alt="ferreirajpg" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/apenasferreira_" target="blank"><img src="https://img.shields.io/twitter/follow/apenas_ferreira?logo=twitter&style=for-the-badge" alt="apenas_ferreira" /></a> </p>
 
 - 🔭 I’m currently working on **some dart/flutter projects**
