@@ -11,7 +11,7 @@
 
 - 🤝 Im looking for help with **some studies and lessons**
 
-- 💬 U can help me **with whatever u do**
+- 💬 U can help me **with whatever u can**
 
 - 📫 How to reach me **mario123schreiner@gmail.com**
 
